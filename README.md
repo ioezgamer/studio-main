@@ -205,6 +205,10 @@ src/
 - Ejecutar `npm run db:push` localmente
 - Verificar esquema en `src/lib/db/schema.ts`
 
+### Error "Cannot find module 'drizzle-zod'"
+
+- Instalar la dependencia faltante: `npm install drizzle-zod`
+
 ## 📄 Licencia
 
 MIT License

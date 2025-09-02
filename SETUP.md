@@ -106,6 +106,13 @@ npm install
 npm run build
 ```
 
+### Error "Cannot find module 'drizzle-zod'"
+
+```bash
+# Instalar dependencia faltante
+npm install drizzle-zod
+```
+
 ### Error de migraciones
 
 ```bash
